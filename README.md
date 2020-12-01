@@ -6,7 +6,7 @@ This is a project of Python Advanced MultiVariate Stats Lab.
 The data contained in `data.csv.zip` represent various features from songs
 extracted using **Spotify API**. Remember to **unzip** it before using. 
 <br/>
-Data Source is from [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv)"Download data directly from here")
+Data Source is from [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv " Download data directly from here " )
 
 
 ## Usage
