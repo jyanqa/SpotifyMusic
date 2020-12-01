@@ -4,8 +4,8 @@ This is a project of Python Advanced MultiVariate Stats Lab.
 
 
 ## Usage
-Click on file **run.py**
-There are totally four functions:
+First thing to do, Open the file named **run.py** and click on **Run** button.
+Then you can apply four funtions on console:
 - `LRMLE()` : used for implementing a linear regressor based on **Maximum Likelihood Estimation**
 - `l1()`: used for computing the **L1 error** of the linear estimator and plot the predicted value
 - `bootme()`: used for computing the **confidence interval** using *bootstrap resampling method*
