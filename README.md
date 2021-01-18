@@ -10,9 +10,9 @@ Data Source: [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020
 
 
 ## Usage
-First thing to do, Open the file named **run.py** and click on **Run** button.
+First thing to do, Open the file named **run.py**.
 <br/>
-Then you can apply four funtions on the console:
+Then you can apply four funtions:
 <br/>
 - `LRMLE()` : used for implementing a linear regressor based on **Maximum Likelihood Estimation**
 - `l1()`: used for computing the **L1 error** of the linear estimator and plot the predicted value
