@@ -1,6 +1,8 @@
 ## Spotify Dataset Analysis
 
-This is a project of Python Advanced MultiVariate Stats Lab.
+This is a project of Python Advanced MultiVariate Stats Lab. 
+
+<br/> The project aims to use Python Modular Structure and apply understanding of Maximum Likelihood Estimation, Boostrap resampling method, Regression and Clustering on analysing the dataset.
 <br/>
 <br/>
 The data contained in `data.csv.zip` represents various features from songs
@@ -9,10 +11,11 @@ extracted using **Spotify API**, unzip before using it.
 Data Source: [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv " Download data directly from here " )
 
 
-## Usage
-First thing to do, Open the file named **run.py**.
+## Funtions
+
 <br/>
 <br/>
+
 - `LRMLE()` : used for implementing a linear regressor based on **Maximum Likelihood Estimation**
 - `l1()`: used for computing the **L1 error** of the linear estimator and plot the predicted value
 - `bootme()`: used for computing the **confidence interval** using **bootstrap resampling method**
