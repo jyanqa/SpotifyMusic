@@ -12,7 +12,7 @@ Data Source: [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020
 
 
 ## Funtions
-<br/>
+
 <br/>
 
 - `LRMLE()` : used for implementing a linear regressor based on **Maximum Likelihood Estimation**
