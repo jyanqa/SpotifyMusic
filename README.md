@@ -11,9 +11,7 @@ extracted using **Spotify API**, unzip before using it.
 Data Source: [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv " Download data directly from here " )
 
 
-## Funtions
-
-<br/>
+## Funtions <br/>
 
 - `LRMLE()` : used for implementing a linear regressor based on **Maximum Likelihood Estimation**
 - `l1()`: used for computing the **L1 error** of the linear estimator and plot the predicted value
